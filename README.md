@@ -1,5 +1,5 @@
 # RCOS-Fall25
-repo for hw01
+repo for lab 1
 - Connor Kostiew
 - ![epic photo descprition](./youtube_pfp.jpg?raw=true "My photo")
 - 2029
